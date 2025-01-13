@@ -39,14 +39,7 @@
 <a href="https://www.instagram.com/TU_USUARIO" target="_blank"><i class="fab fa-instagram"></i></a>
            
   
-<br>
-<br>
-  <br>
-  
 
-
-
-<br>
 
 
 -----
